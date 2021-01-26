@@ -1,3 +1,12 @@
-# AC31007 - User Stories Workshop
+# AC31007 - Group Number 8
 
-The materials in this repository are used as part of teaching at the University of Dundee.
+Group Members:
+
+    Jonas Olsson (Matriculation Number)
+    Tony Wright (Matriculation Number)
+    Tianpeng Xu (Matriculation Number)
+    Wei Zhang (Matriculation Number)
+    Craig Methev (Matriculation Number)
+    Alban Marku (Matriculation Number)
+    Zihan Zhou (Matriculation Number)
+    Elliot Kinkead (Matriculation Number)
